@@ -8,6 +8,35 @@ class Hello
   end
 
   def bar
-    # this method is new
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
+    puts "I'm on a boat!"
   end
 end
