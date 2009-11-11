@@ -1,5 +1,9 @@
 class Hello
   def foo
-    puts "I'm on a boat!"
+    if rand(10) == 6
+      puts "this method got more complex!"
+    else
+      puts "I'm still on a boat!"
+    end
   end
 end
