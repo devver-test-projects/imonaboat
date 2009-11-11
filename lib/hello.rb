@@ -6,4 +6,8 @@ class Hello
       puts "I'm still on a boat!"
     end
   end
+
+  def bar
+    # this method is new
+  end
 end
